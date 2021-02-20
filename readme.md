@@ -19,4 +19,4 @@ Step 6.
 run `sub import` in the terminal
 
 Step 7.
-Watch the magic!
+Watch the magic! Once it stops logging anything, feel free to run the `exit` command
