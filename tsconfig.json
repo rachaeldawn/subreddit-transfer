@@ -1,0 +1,15 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "allowJs": false,
+    "alwaysStrict": true,
+    "allowUnreachableCode": false,    
+    "allowUnusedLabels": false,
+    "rootDir": "app",
+    "esModuleInterop": true,
+    "lib": [ "DOM" ],
+    "outDir": "dist",
+    "target": "ES5",
+    "moduleResolution": "node"
+  }
+}
